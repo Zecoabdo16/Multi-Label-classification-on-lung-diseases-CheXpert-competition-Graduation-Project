@@ -1,4 +1,4 @@
-Multi Label classification on lung diseases: CheXpert competition.
+#Multi Label classification on lung diseases : CheXpert competition.
 
 This Repo includes all the data needed to achieve a very good results with the lowest computional costs and the table shows how our performed compared to the best models that had been submitted on the competition.
 
